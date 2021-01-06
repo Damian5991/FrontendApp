@@ -4,7 +4,7 @@
   "private": true,
   "homepage": "https://orzeldamian.github.io/react-deploy",
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "babel-plugin-wildcard": "^6.0.0",
     "gh-pages": "^2.1.1",
     "react": "^16.11.0",
